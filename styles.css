@@ -10,8 +10,8 @@ body{
 
 header{
   position: fixed;
-  background-color: 6b6b6b;
-  color: ffd7a6;
+  background-color: #6b6b6b;
+  color: #ffd7a6;
   width: 100%;
   height: 5rem;
   margin: 0;
@@ -23,7 +23,6 @@ header{
 
 #navbar{
   position: fixed;
-  top: 0;
   right: 100px;
   display: flex;
   justify-content: space-evenly;
